@@ -1,3 +1,4 @@
+#day2
 @asyncio.coroutine
 def creat_pool(loop, **kv):
 	logging.info("create database connection pool...")
